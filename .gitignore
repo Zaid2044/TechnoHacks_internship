@@ -1,0 +1,39 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+*.out
+*.err
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Model checkpoints / weights
+*.h5
+*.hdf5
+*.ckpt
+checkpoint/
+
+# TensorBoard files
+*.tfevents.*
+
+# Generated images
+prediction_*.png
+
+# Temporary files
+*.tmp
+*.swp
