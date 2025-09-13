@@ -1,36 +1,26 @@
-# Byte-compiled / cache files
+# Virtual environments
+venv/
+*/venv/
+
+# Python cache
 __pycache__/
-*.py[cod]
+*.pyc
 *.pyo
 *.pyd
+*.pdb
+*.egg-info/
+*.egg
 
-# Virtual environment
-venv/
-ENV/
-env/
-.venv/
+# IDE stuff
+.vscode/
+.idea/
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Logs
-*.log
-*.out
-*.err
-
-# OS-specific files
+# OS files
 .DS_Store
 Thumbs.db
 
-# Model checkpoints / weights
-*.h5
-*.hdf5
-*.ckpt
-checkpoint/
+# Logs
+*.log
 
-# TensorBoard files
-*.tfevents.*
-
-# Temporary files
-*.tmp
-*.swp
+# Checkpoints
+.ipynb_checkpoints/
