@@ -31,9 +31,6 @@ checkpoint/
 # TensorBoard files
 *.tfevents.*
 
-# Generated images
-prediction_*.png
-
 # Temporary files
 *.tmp
 *.swp
