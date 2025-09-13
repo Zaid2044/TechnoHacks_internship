@@ -59,17 +59,3 @@ Despite its simplicity, the model achieves **~97.5% accuracy** on test data.
 | ![Prediction 5](prediction_5.png) | 9 | 9 |
 
 ---
-
-## 💡 Key Insights  
-- A simple **dense neural network** can perform surprisingly well on MNIST.  
-- **Normalization** drastically improves convergence.  
-- Visualizing predictions = faster debugging + better storytelling.  
-
----
-
-## 📌 Next Steps  
-- Add **Convolutional Neural Network (CNN)** layers for improved accuracy.  
-- Try **Fashion-MNIST** or **CIFAR-10** datasets.  
-- Deploy as a **Flask/Streamlit web app** for real-time digit recognition.  
-
----
