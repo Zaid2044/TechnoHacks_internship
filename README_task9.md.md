@@ -52,10 +52,10 @@ Despite its simplicity, the model achieves **~97.5% accuracy** on test data.
 
 | Sample | True Label | Predicted Label |
 |--------|------------|-----------------|
-| ![Prediction 1](prediction_1.png) | 2 | 2 |
-| ![Prediction 2](prediction_2.png) | 7 | 7 |
-| ![Prediction 3](prediction_3.png) | 1 | 1 |
-| ![Prediction 4](prediction_4.png) | 5 | 5 |
-| ![Prediction 5](prediction_5.png) | 9 | 9 |
+| ![Prediction 1](prediction_1.png) | 7 | 7 |
+| ![Prediction 2](prediction_2.png) | 5 | 5 |
+| ![Prediction 3](prediction_3.png) | 0 | 0 |
+| ![Prediction 4](prediction_4.png) | 0 | 0 |
+| ![Prediction 5](prediction_5.png) | 3 | 3 |
 
 ---
